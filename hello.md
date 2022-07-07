@@ -1,6 +1,6 @@
 # Greetings
 
 - English : Hello
-- Korean : 안녕하세요
+- Korean : 밥한번먹자
 - spanish : hola
 
